@@ -21,6 +21,8 @@ def finding_data
     find_element_index(scale_2,5)
     find_element_index(scale_2,6)
     find_element_index(hill, 500)
+    find_element_index(valley, 500)
+    find_element_index(zig_zag, 400)
     
     
 
