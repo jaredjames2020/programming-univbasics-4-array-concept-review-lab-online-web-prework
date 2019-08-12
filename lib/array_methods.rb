@@ -1,4 +1,4 @@
-def finding_data
+def Dinding_data
 
 def find_element_index(array, value_to_find)
   # Add your solution here
