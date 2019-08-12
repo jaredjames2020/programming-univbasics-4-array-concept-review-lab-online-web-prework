@@ -16,7 +16,7 @@ def Finding Data()
           p nil
         end}
     end
-    find_element_index(data_array,)
+    find_element_index(scale,2)
 
     def find_max_value(array)
       # Add your solution here
