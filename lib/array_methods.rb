@@ -17,6 +17,8 @@ def Finding Data()
         end}
     end
     find_element_index(scale,2)
+    find_element_index(scale,4)
+    
 
     def find_max_value(array)
       # Add your solution here
