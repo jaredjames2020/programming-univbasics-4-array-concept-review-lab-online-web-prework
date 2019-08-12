@@ -1,7 +1,7 @@
 def find_element_index(array, value_to_find)
   # Add your solution here
   array.each { |a|
-    if array.index(value_to_find) == true
+    if array.include?(value_to_find) == true
       p array.index(value_to_find)
     else 
       p nil
