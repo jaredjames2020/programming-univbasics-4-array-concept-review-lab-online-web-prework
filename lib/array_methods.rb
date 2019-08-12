@@ -5,7 +5,7 @@ def find_element_index(array, value_to_find)
       p array.index(value_to_find)
     else 
       p nil
-    end
+    end}
 end
 find_element_index([1,2,3], 2)
 
