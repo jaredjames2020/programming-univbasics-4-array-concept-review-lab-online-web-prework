@@ -8,9 +8,9 @@
       # Add your solution here
       array.each { |a|
         if array.include?(value_to_find) == true
-          p array.index(value_to_find)
+          return array.index(value_to_find)
         else 
-          p nil
+          return nil
         end}
     end
     find_element_index(scale,2)
