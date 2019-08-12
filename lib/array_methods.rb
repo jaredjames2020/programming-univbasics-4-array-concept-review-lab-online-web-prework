@@ -33,6 +33,10 @@ def finding_data
       end
     end
     find_max_value(scale)
+    find_max_value(scale_2)
+    find_max_value(hill)
+    find_max_value(valley)
+    find_max_value(zig_zag)
     
     def find_min_value(array)
       # Add your solution here
@@ -40,6 +44,9 @@ def finding_data
         puts array.min
       end
     end
-    
-
+    find_max_value(scale)
+    find_max_value(scale_2)
+    find_max_value(hill)
+    find_max_value(valley)
+    find_max_value(zig_zag)
 end
