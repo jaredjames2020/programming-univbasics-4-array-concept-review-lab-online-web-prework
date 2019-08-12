@@ -36,5 +36,6 @@ def finding_data
         puts array.min
       end
     end
+    
 
 end
